@@ -1,7 +1,7 @@
 # VoltageAttacker
 Voltage Injection Tool
 
-Voltage fault injection, is the process of shorting a pin or component of a board/device at a precise moment in order to complete a certain function. This function can be pausing the clock, resetting the device, or causing memory to be corrupted. This voltage fault is injected with a crowbar circuit, these crowbar circuits and extremely simple. They are simply MOSFETS, that can be stacked together to increase strength and speed. Stacking MOSFETS allows for pulling a voltage down for longer or pulling a higher voltage down further. Attached below are examples of different VFI pcbs. 
+Voltage fault injection, is the process of manipulating the power supply of a board/device at a precise moment in order to complete a certain function. This function can be pausing the clock, resetting the device, or causing memory to be corrupted. This voltage fault is injected with a crowbar circuit, these crowbar circuits and extremely simple. They are simply MOSFETS, that can be stacked together to increase strength and speed. Stacking MOSFETS allows for pulling a voltage down for longer or pulling a higher voltage down further. Attached below are examples of different VFI pcbs. 
 
 
 ![VFI-Small](https://github.com/IsaaccW/VoltageAttacker/assets/65687558/aab1117e-c1c3-4a88-9a7f-967f4760a0bf)
